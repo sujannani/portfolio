@@ -75,11 +75,11 @@ img{
     width:40px;
     height:40px;
     background:green;
-    right:10px;
-    bottom:10px;
+    right:20px;
+    bottom:40px;
     text-decoration: none;
     text-align:center;
-    line-height: 50px;
+    line-height: 70px;
     color:white;
-    font-size: 40px;
+    font-size: 60px;
 }
